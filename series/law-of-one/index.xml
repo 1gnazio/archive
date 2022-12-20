@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Law of One on Heliacal Club</title>
+    <link>http://example.org/series/law-of-one/</link>
+    <description>Recent content in Law of One on Heliacal Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Dec 2022 10:55:41 -0500</lastBuildDate><atom:link href="http://example.org/series/law-of-one/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to the Law of One</title>
+      <link>http://example.org/posts/lawofone1/</link>
+      <pubDate>Tue, 20 Dec 2022 10:55:41 -0500</pubDate>
+      
+      <guid>http://example.org/posts/lawofone1/</guid>
+      <description>Read the channelings at https://lawofone.info/ to develop yor own interpretation of this school of thought.The Law of One is a spiritual and philosophical concept that is based on the belief that all things in the universe are ultimately interconnected and are part of a single, unified consciousness.</description>
+    </item>
+    
+  </channel>
+</rss>

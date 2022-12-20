@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gnosticism on Heliacal Club</title>
+    <link>http://example.org/series/gnosticism/</link>
+    <description>Recent content in Gnosticism on Heliacal Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Dec 2022 08:36:52 -0500</lastBuildDate><atom:link href="http://example.org/series/gnosticism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to Gnosticism</title>
+      <link>http://example.org/posts/gnostic1/</link>
+      <pubDate>Tue, 20 Dec 2022 08:36:52 -0500</pubDate>
+      
+      <guid>http://example.org/posts/gnostic1/</guid>
+      <description>Gnosticism is a term that refers to a diverse set of religious movements that flourished in the early centuries of the Common Era, particularly in the Mediterranean world.
+At its core, Gnosticism is characterized by the belief that knowledge (gnosis in Greek) is the key to achieving salvation.</description>
+    </item>
+    
+  </channel>
+</rss>
