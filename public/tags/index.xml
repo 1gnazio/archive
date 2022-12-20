@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Heliacal Club</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on Heliacal Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Dec 2022 08:36:52 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>psychology</title>
+      <link>http://example.org/tags/psychology/</link>
+      <pubDate>Tue, 20 Dec 2022 08:36:52 -0500</pubDate>
+      
+      <guid>http://example.org/tags/psychology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advanced</title>
+      <link>http://example.org/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/tags/advanced/</guid>
+      <description>This is the advanced tag. Just like other listing pages in Blowfish, you can add custom content to individual taxonomy terms and it will be displayed at the top of the term listing.</description>
+    </item>
+    
+  </channel>
+</rss>
