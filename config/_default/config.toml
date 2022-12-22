@@ -120,7 +120,7 @@ enableCodeCopy = true
 [buymeacoffee]
    identifier = "ignazio"
    globalWidget = true
-   globalWidgetMessage = "Hello"
+   globalWidgetMessage = "Support the club"
    globalWidgetColor = "#30D5C8"
    globalWidgetPosition = "Right"
 
