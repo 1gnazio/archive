@@ -118,7 +118,7 @@ enableCodeCopy = true
   # domain = "llama.yoursite.com"
 
 [buymeacoffee]
-   identifier = "ignazio"
+   identifier = "@ignazio"
    globalWidget = true
    globalWidgetMessage = "Support the club"
    globalWidgetColor = "#30D5C8"
